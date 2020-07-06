@@ -1,7 +1,7 @@
 [
   {
     "kr": "ㄱ",
-    "en": "g",
+    "en": "g/k",
     "words":{
         "kr": [],
         "en": []
@@ -19,7 +19,7 @@
   },
   {
     "kr": "ㄷ",
-    "en": "d",
+    "en": "d/t",
     "words":{
         "kr": [],
         "en": []
@@ -28,7 +28,7 @@
   },
   {
     "kr": "ㄹ",
-    "en": "r",
+    "en": "r/l",
     "words":{
         "kr": [],
         "en": []
@@ -46,7 +46,7 @@
   },
   {
     "kr": "ㅂ",
-    "en": "b",
+    "en": "b/p",
     "words":{
         "kr": [],
         "en": []
@@ -55,7 +55,7 @@
   },
   {
     "kr": "ㅅ",
-    "en": "s",
+    "en": "s/t",
     "words":{
         "kr": [],
         "en": []
@@ -64,7 +64,7 @@
   },  
   {
     "kr": "ㅇ",
-    "en": "ng/silent",
+    "en": "silent/ng",
     "words":{
         "kr": [],
         "en": []
@@ -73,7 +73,7 @@
   },
   {
     "kr": "ㅈ",
-    "en": "j",
+    "en": "j/t",
     "words":{
         "kr": [],
         "en": []
@@ -82,7 +82,7 @@
   },
   {
     "kr": "ㅊ",
-    "en": "ch",
+    "en": "ch/t",
     "words":{
         "kr": [],
         "en": []
@@ -118,7 +118,7 @@
   },
   {
     "kr": "ㅎ",
-    "en": "h",
+    "en": "h/t",
     "words":{
         "kr": [],
         "en": []
@@ -135,8 +135,26 @@
     "type": "vowel"
   },
   {
+    "kr": "ㅐ",
+    "en": "ae",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
     "kr": "ㅑ",
     "en": "ya",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅒ",
+    "en": "yae",
     "words":{
         "kr": [],
         "en": []
@@ -153,6 +171,15 @@
     "type": "vowel"
   },
   {
+    "kr": "ㅔ",
+    "en": "e",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
     "kr": "ㅕ",
     "en": "yeo",
     "words":{
@@ -162,8 +189,44 @@
     "type": "vowel"
   },
   {
+    "kr": "ㅖ",
+    "en": "ye",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
     "kr": "ㅗ",
     "en": "o",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅘ",
+    "en": "wa",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅙ",
+    "en": "wae",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅚ",
+    "en": "oe",
     "words":{
         "kr": [],
         "en": []
@@ -189,6 +252,33 @@
     "type": "vowel"
   },
   {
+    "kr": "ㅝ",
+    "en": "wo",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅞ",
+    "en": "we",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅟ",
+    "en": "wi",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
     "kr": "ㅠ",
     "en": "yu",
     "words":{
@@ -207,8 +297,62 @@
     "type": "vowel"
   },
   {
+    "kr": "ㅢ",
+    "en": "ui/yi",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
     "kr": "ㅣ",
     "en": "i",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㄲ",
+    "en": "kk",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㄸ",
+    "en": "tt",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅃ",
+    "en": "pp",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅆ",
+    "en": "ss",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "kr": "ㅉ",
+    "en": "jj",
     "words":{
         "kr": [],
         "en": []
