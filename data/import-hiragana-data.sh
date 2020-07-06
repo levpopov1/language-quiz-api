@@ -1,0 +1,1 @@
+mongoimport --db learnAlphabet --collection hiragana --file ./clean/starting-dataset-hiragana.json --jsonArray

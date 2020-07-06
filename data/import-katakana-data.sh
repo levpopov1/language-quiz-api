@@ -1,0 +1,1 @@
+mongoimport --db learnAlphabet --collection katakana --file ./clean/starting-dataset-katakana.json --jsonArray

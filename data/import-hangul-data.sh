@@ -1,0 +1,1 @@
+mongoimport --db learnAlphabet --collection hangul --file ./clean/starting-dataset-hangul.json --jsonArray
