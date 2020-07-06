@@ -1,13 +1,10 @@
 module.exports = function(Model){
-    return function(req, res, next){
-        Model.find({}, function(err, items){
-            if(err){
-                res.json(err);
-            }
-            else{
-                req.items = items;
-                next();
-            }
-        });
+    return async function(req, res, next){
+        try {
+            req.items = await Model.find({});
+            next();
+        } catch (error) {
+            next(error);
+        }
     };
 };
