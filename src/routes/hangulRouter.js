@@ -10,8 +10,9 @@ const findAll = require('../middleware/findAll');
 const countAll = require('../middleware/countAll');
 
 router.get('/', findAll(Hangul), hangulController.getAll);
-// router.get('/:id', findByID(Hangul), hangulController.getOne);
-router.get('/random', countAll(Hangul), hangulController.getRandom);
+router.get('/random', hangulController.getRandom);
+router.get('/:id', findByID(Hangul), hangulController.getOne);
+
 
 router.post('/', hangulController.post);
 
