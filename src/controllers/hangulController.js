@@ -1,18 +1,34 @@
 const Hangul = require('../models/hangul');
+const _shuffle = require('lodash/shuffle');
 
 function getAll(req, res){
     res.status(200).json(req.items);
 }
 
 function getOne(req, res){
-    res.status(200).json(req.items);
+    res.status(200).json(req.item);
 }
 
 async function getRandom(req, res, next){
-    let rnd = Math.floor(Math.random() * req.params.count);
+    let limit = parseInt(req.query.limit);
+    let results = [];
+    let all = [];
+
     try {
-        let randomItem = await Hangul.findOne().skip(rnd);
-        res.status(200).json(randomItem);
+        if(limit){
+            results = await Hangul.aggregate().sample(limit);
+            let numCompleteFills = Math.floor(limit / results.length);
+            let numPartialFills = limit % results.length;
+            for(let i=0; i<numCompleteFills; i++){
+                all = all.concat(results);
+            }
+            all = all.concat(results.slice(0, numPartialFills));
+            all = _shuffle(all);
+        }
+        else{
+            all = await Hangul.aggregate().sample(1);
+        }
+        res.status(200).json(all);
     } catch (error) {
         console.log("item:" , error);
         next(error);
