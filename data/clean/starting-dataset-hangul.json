@@ -135,26 +135,8 @@
     "type": "vowel"
   },
   {
-    "kr": "ㅐ",
-    "en": "ae",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
     "kr": "ㅑ",
     "en": "ya",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅒ",
-    "en": "yae",
     "words":{
         "kr": [],
         "en": []
@@ -171,15 +153,6 @@
     "type": "vowel"
   },
   {
-    "kr": "ㅔ",
-    "en": "e",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
     "kr": "ㅕ",
     "en": "yeo",
     "words":{
@@ -189,44 +162,8 @@
     "type": "vowel"
   },
   {
-    "kr": "ㅖ",
-    "en": "ye",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
     "kr": "ㅗ",
     "en": "o",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅘ",
-    "en": "wa",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅙ",
-    "en": "wae",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅚ",
-    "en": "oe",
     "words":{
         "kr": [],
         "en": []
@@ -252,33 +189,6 @@
     "type": "vowel"
   },
   {
-    "kr": "ㅝ",
-    "en": "wo",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅞ",
-    "en": "we",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅟ",
-    "en": "wi",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
     "kr": "ㅠ",
     "en": "yu",
     "words":{
@@ -290,15 +200,6 @@
   {
     "kr": "ㅡ",
     "en": "eu",
-    "words":{
-        "kr": [],
-        "en": []
-    },
-    "type": "vowel"
-  },
-  {
-    "kr": "ㅢ",
-    "en": "ui/yi",
     "words":{
         "kr": [],
         "en": []
@@ -321,7 +222,7 @@
         "kr": [],
         "en": []
     },
-    "type": "vowel"
+    "type": "double-consonant"
   },
   {
     "kr": "ㄸ",
@@ -330,7 +231,7 @@
         "kr": [],
         "en": []
     },
-    "type": "vowel"
+    "type": "double-consonant"
   },
   {
     "kr": "ㅃ",
@@ -339,7 +240,7 @@
         "kr": [],
         "en": []
     },
-    "type": "vowel"
+    "type": "double-consonant"
   },
   {
     "kr": "ㅆ",
@@ -348,7 +249,7 @@
         "kr": [],
         "en": []
     },
-    "type": "vowel"
+    "type": "double-consonant"
   },
   {
     "kr": "ㅉ",
@@ -357,6 +258,105 @@
         "kr": [],
         "en": []
     },
-    "type": "vowel"
+    "type": "double-consonant"
+  },
+  {
+    "kr": "ㅐ",
+    "en": "ae",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅒ",
+    "en": "yae",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅔ",
+    "en": "e",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅖ",
+    "en": "ye",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅘ",
+    "en": "wa",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅙ",
+    "en": "wae",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅚ",
+    "en": "oe",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅝ",
+    "en": "wo",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅞ",
+    "en": "we",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅟ",
+    "en": "wi",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
+  },
+  {
+    "kr": "ㅢ",
+    "en": "ui/yi",
+    "words":{
+        "kr": [],
+        "en": []
+    },
+    "type": "double-vowel"
   }
 ]
