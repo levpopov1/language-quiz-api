@@ -40,5 +40,5 @@ app.use('/api/v1', routes);
 // begin listening on given port
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, function(){
-    console.log(`The app is running in ${process.env.NODE_ENV} mode on port: ${PORT}`);
+    console.log(`The server is running in ${process.env.NODE_ENV} mode on port: ${PORT}`);
 });
