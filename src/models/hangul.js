@@ -16,7 +16,7 @@ var HangulSchema = new Schema({
     },
     type:{
         type: String,
-        enum: ['consonant', 'vowel']
+        enum: ['consonant', 'vowel', 'double-consonant', 'double-vowel']
     }
 });
 
