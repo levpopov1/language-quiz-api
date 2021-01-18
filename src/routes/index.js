@@ -14,7 +14,7 @@ router.get('/', function(req, res){
 });
 
 router.use('/hangul', hagulRouter);
-// router.use('/hiragana', hiraganaRouter);
+router.use('/hiragana', hiraganaRouter);
 // router.use('/katakana', katakanaRouter);
 
 // if none of the above routes handle the request if will error out here
