@@ -324,33 +324,6 @@
     "type": "monograph"
   },
   {
-    "jp": "や",
-    "en": "ya",
-    "words": {
-      "jp": [],
-      "en": []
-    },
-    "type": "monograph"
-  },
-  {
-    "jp": "ゆ",
-    "en": "yu",
-    "words": {
-      "jp": [],
-      "en": []
-    },
-    "type": "monograph"
-  },
-  {
-    "jp": "よ",
-    "en": "yo",
-    "words": {
-      "jp": [],
-      "en": []
-    },
-    "type": "monograph"
-  },
-  {
     "jp": "ら",
     "en": "ra",
     "words": {
@@ -389,6 +362,33 @@
   {
     "jp": "ろ",
     "en": "ro",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "や",
+    "en": "ya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ゆ",
+    "en": "yu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "よ",
+    "en": "yo",
     "words": {
       "jp": [],
       "en": []
