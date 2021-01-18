@@ -1,0 +1,965 @@
+[
+  {
+    "jp": "あ",
+    "en": "a",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "jp": "い",
+    "en": "i",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "jp": "う",
+    "en": "u",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "jp": "え",
+    "en": "e",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "jp": "お",
+    "en": "o",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "vowel"
+  },
+  {
+    "jp": "ん",
+    "en": "n",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "consonant"
+  },
+  {
+    "jp": "か",
+    "en": "ka",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "き",
+    "en": "ki",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "く",
+    "en": "ku",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "け",
+    "en": "ke",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "こ",
+    "en": "ko",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "さ",
+    "en": "sa",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "し",
+    "en": "shi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "す",
+    "en": "su",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "せ",
+    "en": "se",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "そ",
+    "en": "so",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "た",
+    "en": "ta",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ち",
+    "en": "chi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "つ",
+    "en": "tsu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "て",
+    "en": "te",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "と",
+    "en": "to",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "な",
+    "en": "na",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "に",
+    "en": "ni",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ぬ",
+    "en": "nu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ね",
+    "en": "ne",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "の",
+    "en": "no",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "は",
+    "en": "ha",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ひ",
+    "en": "hi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ふ",
+    "en": "fu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "へ",
+    "en": "he",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ほ",
+    "en": "ho",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ま",
+    "en": "ma",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "み",
+    "en": "mi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "む",
+    "en": "mu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "め",
+    "en": "me",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "も",
+    "en": "mo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "や",
+    "en": "ya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ゆ",
+    "en": "yu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "よ",
+    "en": "yo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ら",
+    "en": "ra",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "り",
+    "en": "ri",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "る",
+    "en": "ru",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "れ",
+    "en": "re",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "ろ",
+    "en": "ro",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "わ",
+    "en": "wa",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "を",
+    "en": "wo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "monograph"
+  },
+  {
+    "jp": "が",
+    "en": "ga",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぎ",
+    "en": "gi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぐ",
+    "en": "gu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "げ",
+    "en": "ge",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ご",
+    "en": "go",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ざ",
+    "en": "za",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "じ",
+    "en": "ji",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ず",
+    "en": "zu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぜ",
+    "en": "ze",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぞ",
+    "en": "zo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "だ",
+    "en": "zo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぢ",
+    "en": "di/ji",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "づ",
+    "en": "dzu/zu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "で",
+    "en": "de",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ど",
+    "en": "do",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ば",
+    "en": "ba",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "び",
+    "en": "bi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぶ",
+    "en": "bu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "べ",
+    "en": "be",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぼ",
+    "en": "bo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぱ",
+    "en": "pa",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぴ",
+    "en": "pi",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぷ",
+    "en": "pu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぺ",
+    "en": "pe",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "ぽ",
+    "en": "po",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diacritic"
+  },
+  {
+    "jp": "きゃ",
+    "en": "kya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "きゅ",
+    "en": "kyu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "きょ",
+    "en": "kyo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "しゃ",
+    "en": "sha",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "しゅ",
+    "en": "shu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "しょ",
+    "en": "sho",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ちゃ",
+    "en": "cha",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ちゅ",
+    "en": "chu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ちょ",
+    "en": "cho",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "にゃ",
+    "en": "nya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "にゅ",
+    "en": "nyu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "にょ",
+    "en": "nyo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ひゃ",
+    "en": "hya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ひゅ",
+    "en": "hyu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ひょ",
+    "en": "hyo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "みゃ",
+    "en": "mya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "みゅ",
+    "en": "myu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "みょ",
+    "en": "myo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "りゃ",
+    "en": "rya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "りゅ",
+    "en": "ryu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "りょ",
+    "en": "ryo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph"
+  },
+  {
+    "jp": "ぎゃ",
+    "en": "gya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぎゅ",
+    "en": "gyu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぎょ",
+    "en": "gyo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "じゃ",
+    "en": "ja",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "じゅ",
+    "en": "ju",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "じょ",
+    "en": "jo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぢゃ",
+    "en": "dja/ja",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぢゅ",
+    "en": "dju/ju",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぢょ",
+    "en": "djo/jo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "びゃ",
+    "en": "bya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "びゅ",
+    "en": "byu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "びょ",
+    "en": "byo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぴゃ",
+    "en": "pya",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぴゅ",
+    "en": "pyu",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  },
+  {
+    "jp": "ぴょ",
+    "en": "pyo",
+    "words": {
+      "jp": [],
+      "en": []
+    },
+    "type": "diagraph with diacritic"
+  }
+]
