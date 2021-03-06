@@ -7,7 +7,7 @@ const connectDB = async function(){
         connectionString = process.env.MONGO_DEV_URI;
     }
     else{
-        connectionString = `mongodb://${process.env.MONGO_ROOT_USER}:${process.env.MONGO_ROOT_PASSWORD}@${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_DB_NAME}?authSource=admin`
+        connectionString = `mongodb://${process.env.MONGO_USER}:${process.env.MONGO_PASSWORD}@${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_DB_NAME}`
     }
     try {
         const conn = await mongoose.connect(connectionString, {
