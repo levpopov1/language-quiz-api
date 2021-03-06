@@ -15,12 +15,11 @@ connectDB();
 // start server instance
 const app = express();
 
-/*  
 // uncomment this line if running behind a proxy 
 // the x-forwarded-for header in nginx config must be set
 // node will set req.ip to real remote address
 app.set('trust proxy', true);
-*/
+
 
 // cross origin request middleware
 app.use(cors());
