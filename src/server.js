@@ -1,6 +1,6 @@
 // main entry point for API server
 const express = require('express');
-const passport = require('passport');
+// const passport = require('passport');
 const cors = require('cors');
 const morgan = require('morgan');
 const routes = require('./routes');
@@ -25,17 +25,19 @@ app.set('trust proxy', true);
 // cross origin request middleware
 app.use(cors());
 // dev middleware
-app.use(morgan('dev'));
+if(process.env.NODE_ENV === "development"){
+    app.use(morgan('dev'));
+}
 // url middleware
 app.use(express.json());
 // session management middleware
-app.use(passport.initialize());
-app.use(passport.session());
+// app.use(passport.initialize());
+// app.use(passport.session());
 
 
 
 // route handlers entrypoint for all routes
-app.use('/api/v1', routes);
+app.use('/', routes);
 
 // begin listening on given port
 const PORT = process.env.PORT || 5000;
