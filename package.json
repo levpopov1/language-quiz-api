@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
+    "prod": "pm2 start src/server.js --name 'logograms-node-server'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
