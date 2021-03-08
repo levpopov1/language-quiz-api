@@ -14,7 +14,7 @@ router.get('/random', katakanaController.getRandom);
 router.get('/:id', findByID(Katakana), katakanaController.getOne);
 
 
-router.post('/', katakanaController.post);
+// router.post('/', katakanaController.post);
 
 
 module.exports = router;

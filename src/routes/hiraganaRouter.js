@@ -14,7 +14,7 @@ router.get('/random', hiraganaController.getRandom);
 router.get('/:id', findByID(Hiragana), hiraganaController.getOne);
 
 
-router.post('/', hiraganaController.post);
+// router.post('/', hiraganaController.post);
 
 
 module.exports = router;

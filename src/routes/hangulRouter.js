@@ -14,7 +14,7 @@ router.get('/random', hangulController.getRandom);
 router.get('/:id', findByID(Hangul), hangulController.getOne);
 
 
-router.post('/', hangulController.post);
+// router.post('/', hangulController.post);
 
 
 module.exports = router;
